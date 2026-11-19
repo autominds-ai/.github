@@ -23,14 +23,15 @@ Client names are kept private. Each project is described by the problem and what
 
 | Project | Stack |
 |---|---|
+| [WhatsApp lead router for an electronics retailer](https://github.com/autominds-ai/retail-whatsapp-lead-router): auto-replies, lead database, hot-lead alerts | Make.com, WhatsApp Cloud API, Airtable |
+| [Church follow-up system](https://github.com/autominds-ai/church-whatsapp-sms-followup): personal WhatsApp/SMS messages every Sunday and Saturday | Google Apps Script, Sheets, WhatsApp, SMS |
+| [Monthly program SMS + QR check-in](https://github.com/autominds-ai/program-sms-reminders-checkin): timed reminders, RSVP links, check-in, follow-up | Google Apps Script, Sheets, SMS API |
 | [Website lead capture → Sheets → Brevo](https://github.com/autominds-ai/website-lead-capture-sheets-brevo): our own lead system, live on our site | Make.com, Google Sheets, Brevo, JS |
-| Lead generation system for an electronics retailer | Facebook ads, WhatsApp, Make.com |
-| Follow-up system for a church | Make.com, Google Sheets, WhatsApp |
 | Website with store and booking for a gospel artist | WordPress, Elementor |
 | [Stop Doing It Manually](https://github.com/autominds-ai/stop-doing-it-manually-guide): free guide for business owners | |
 
 ### Tools we work with
-`Make.com` · `n8n` · `WhatsApp Business` · `Google Sheets` · `Brevo` · `Calendly` · `Claude / ChatGPT` · `JavaScript` · `Python`
+`Make.com` · `n8n` · `Google Apps Script` · `WhatsApp Cloud API` · `Google Sheets` · `Airtable` · `Brevo` · `SMS APIs` · `Calendly` · `Claude / ChatGPT` · `JavaScript` · `Python`
 
 ### How we work
 **Free audit** (30 min) → **Build** around your tools → **Launch** with your team → **Care and updates**
