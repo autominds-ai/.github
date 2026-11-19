@@ -27,7 +27,7 @@ Client names are kept private. Each project is described by the problem and what
 | [Church follow-up system](https://github.com/autominds-ai/church-whatsapp-sms-followup): personal WhatsApp/SMS messages every Sunday and Saturday | Google Apps Script, Sheets, WhatsApp, SMS |
 | [Monthly program SMS + QR check-in](https://github.com/autominds-ai/program-sms-reminders-checkin): timed reminders, RSVP links, check-in, follow-up | Google Apps Script, Sheets, SMS API |
 | [Website lead capture → Sheets → Brevo](https://github.com/autominds-ai/website-lead-capture-sheets-brevo): our own lead system, live on our site | Make.com, Google Sheets, Brevo, JS |
-| Website with store and booking for a gospel artist | WordPress, Elementor |
+| [Website for a gospel artist](https://github.com/autominds-ai/gospel-artist-website): event booking, newsletter, press kit, store page ready for launch | WordPress, Elementor, Brevo |
 | [Stop Doing It Manually](https://github.com/autominds-ai/stop-doing-it-manually-guide): free guide for business owners | |
 
 ### Tools we work with
